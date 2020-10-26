@@ -1,4 +1,4 @@
-package com.apponrent.app;
+package com.example.app;
 
 import androidx.appcompat.app.AppCompatActivity;
 
